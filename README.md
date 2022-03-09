@@ -8,6 +8,8 @@ This is my first project in react.
 
 
 
+TO START JUST WRITE IN TERMINAL :
+
 ```
 npm start
 ```
